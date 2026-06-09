@@ -123,11 +123,9 @@ body{
 }
 
 .gallery img{
-    width:100%;
-    height:350px;
-    object-fit:cover;
-    border-radius:20px;
-    transition:.4s;
+    width:300px;
+    height:auto;
+    border:3px solid red;
 }
 
 .gallery img:hover{
